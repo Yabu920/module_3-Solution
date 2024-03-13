@@ -1,4 +1,4 @@
-var names = ["yeabsra", "Abel", "jemal", "hayilu" , "jemila"];
+var names = ["Yaakov", "John", "Jen", "Jason" , "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 names.forEach(names => {
   if(names.charAt(0) === 'j'){
